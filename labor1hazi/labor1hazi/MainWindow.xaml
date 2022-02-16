@@ -5,8 +5,35 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:labor1hazi"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="800" Width="440">
+    <StackPanel>
+        <DockPanel VerticalAlignment="Stretch">
+            <Button  Margin="10" Height="18" x:Name="Applybtn" Content="Apply"  Width="165"/>
+            <Button  Margin="10" Height="21" x:Name="Resetbtn" Content="Reset"  Width="159"/>
+        </DockPanel>
+        <TextBlock Text="Basic Properties" Margin="15"/>
+        <TextBlock Text="Manufacturer"/>
+        <DockPanel>
+            <TextBlock Text="Package Dimensions" Width="259"/>
+            <TextBlock Text="Item Weight" Width="149"/>
+        </DockPanel>
+        <TextBlock Text="Part Number"/>
+        <TextBlock Text="Raw Material"/>
+        <TextBlock Text="Material"/>
+        <TextBlock Text="Manufacturing Info"/>
+        <TextBlock Text="Usage"/>
+        <TextBlock Text="Size"/>
+        <TextBlock Text="Power Source"/>
+        <TextBlock Text="Include Components"/>
+        <TextBlock Text="Speed"/>
+        <TextBlock Text="Torque"/>
+        <TextBox x:Name="torquetxt" Margin="10"/>
+        <TextBlock Text="Installation Method"/>
+        <TextBox x:Name="installationtxt" Margin="10"/>
+        <TextBlock Text="Additional Information"/>
+        <TextBox x:Name="notetxt" Margin="10"/>
+        <TextBlock Text="Note"/>
+        <TextBox x:Name="notetxt" Margin="10"/>
+
+    </StackPanel>
 </Window>

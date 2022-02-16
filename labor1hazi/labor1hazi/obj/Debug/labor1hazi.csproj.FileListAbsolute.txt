@@ -1,0 +1,6 @@
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\labor1hazi.csproj.AssemblyReference.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\labor1hazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\MainWindow.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\App.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\labor1hazi_MarkupCompile.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor1hazi\labor1hazi\obj\Debug\labor1hazi_MarkupCompile.lref
