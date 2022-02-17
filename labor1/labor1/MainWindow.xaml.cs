@@ -30,6 +30,7 @@ namespace labor1
             people.Add(new Person { FirstName = "John", LastName = "Doe" });
             people.Add(new Person { FirstName = "Joe", LastName = "Smith" });
             people.Add(new Person { FirstName = "Sue", LastName = "Storm" });
+            people.Add(new Person { FullName="Tanko Tamas"});
             peopleComboBox.ItemsSource = people;
         }
         private void submitbtnclick(object sender, RoutedEventArgs e)

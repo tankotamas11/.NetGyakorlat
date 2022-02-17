@@ -44,7 +44,7 @@
             <ComboBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="10" Orientation="Horizontal">
-
+                        <!--<TextBlock Text="{Binding FullName}"/>-->
                         <TextBlock  Text="{Binding FirstName}"/>
                         <TextBlock Text=" "/>
                         <TextBlock Text="{Binding LastName}"/> 
