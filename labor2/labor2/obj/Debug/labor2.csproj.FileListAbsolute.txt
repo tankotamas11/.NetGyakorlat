@@ -1,0 +1,16 @@
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\bin\Debug\labor2.exe.config
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\bin\Debug\labor2.exe
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\bin\Debug\labor2.pdb
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.csproj.AssemblyReference.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\MainWindow.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\App.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2_MarkupCompile.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2_MarkupCompile.lref
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\MainWindow.baml
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.g.resources
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.Properties.Resources.resources
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.csproj.GenerateResource.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.csproj.CoreCompileInputs.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.exe
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2\labor2\obj\Debug\labor2.pdb

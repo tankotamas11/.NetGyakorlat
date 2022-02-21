@@ -13,26 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace labor1hazi
+namespace labor2hazi
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {   private Drill kimo=new Drill(); 
+    {
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Applybtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Resetbtn_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

@@ -10,29 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace labor1hazi
+namespace labor2hazi.Resources
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for IndividualColumnHeader.xaml
     /// </summary>
-    public partial class MainWindow : Window
-    {   private Drill kimo=new Drill(); 
-        public MainWindow()
+    public partial class IndividualColumnHeader : Window
+    {
+        public IndividualColumnHeader()
         {
             InitializeComponent();
-        }
-
-        private void Applybtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Resetbtn_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

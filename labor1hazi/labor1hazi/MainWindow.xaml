@@ -6,16 +6,21 @@
         xmlns:local="clr-namespace:labor1hazi"
         mc:Ignorable="d"
         Title="MainWindow" Height="800" Width="440">
-    <StackPanel>
-        <DockPanel VerticalAlignment="Stretch">
-            <Button  Margin="10" Height="18" x:Name="Applybtn" Content="Apply"  Width="165"/>
-            <Button  Margin="10" Height="21" x:Name="Resetbtn" Content="Reset"  Width="159"/>
+    <StackPanel Margin="10">
+        <DockPanel VerticalAlignment="Stretch" >
+            <Button   Height="18" x:Name="Applybtn" Content="Apply"  Width="200" Click="Applybtn_Click"/>
+            <Button   Height="21" x:Name="Resetbtn" Content="Reset"  Width="184" Click="Resetbtn_Click"/>
         </DockPanel>
-        <TextBlock Text="Basic Properties" Margin="15"/>
+        <TextBlock Text="Basic Properties" />
         <TextBlock Text="Manufacturer"/>
+        <TextBox x:Name="manufacttxt" />
         <DockPanel>
             <TextBlock Text="Package Dimensions" Width="259"/>
             <TextBlock Text="Item Weight" Width="149"/>
+        </DockPanel>
+        <DockPanel>
+            <TextBox x:Name="packagetxt" Width="259" Background="DarkGray"/>
+            <TextBox x:Name="itemTxt" Width="149" Background="DarkGray"/>
         </DockPanel>
         <TextBlock Text="Part Number"/>
         <TextBlock Text="Raw Material"/>
@@ -23,17 +28,19 @@
         <TextBlock Text="Manufacturing Info"/>
         <TextBlock Text="Usage"/>
         <TextBlock Text="Size"/>
+        <TextBox x:Name="sizetxt" />
         <TextBlock Text="Power Source"/>
         <TextBlock Text="Include Components"/>
+        <TextBox x:Name="includetxt" />
         <TextBlock Text="Speed"/>
         <TextBlock Text="Torque"/>
-        <TextBox x:Name="torquetxt" Margin="10"/>
+        <TextBox x:Name="torquetxt" />
         <TextBlock Text="Installation Method"/>
-        <TextBox x:Name="installationtxt" Margin="10"/>
+        <TextBox x:Name="installationtxt" />
         <TextBlock Text="Additional Information"/>
-        <TextBox x:Name="notetxt" Margin="10"/>
+        <TextBox x:Name="notetxt" />
         <TextBlock Text="Note"/>
-        <TextBox x:Name="notetxt" Margin="10"/>
+        <TextBox x:Name="Notetxt" />
 
     </StackPanel>
 </Window>
