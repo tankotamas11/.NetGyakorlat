@@ -1,0 +1,17 @@
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\bin\Debug\labor2hazi.exe.config
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\bin\Debug\labor2hazi.exe
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\bin\Debug\labor2hazi.pdb
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.csproj.AssemblyReference.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\MainWindow.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\App.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi_MarkupCompile.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi_MarkupCompile.lref
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\MainWindow.baml
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.g.resources
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.Properties.Resources.resources
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.csproj.GenerateResource.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.csproj.CoreCompileInputs.cache
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.exe
+C:\Users\tanko\OneDrive\Dokumentumok\harmadev\masodikfelev\netgyakorlat\.NetGyakorlat\labor2hazi\labor2hazi\obj\Debug\labor2hazi.pdb

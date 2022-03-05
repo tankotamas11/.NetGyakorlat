@@ -6,18 +6,29 @@
         xmlns:local="clr-namespace:labor2hazi"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Window.Resources>
+            <local:QuantityConverter x:Key="QuantityConverter"/>
+        </Window.Resources>
+        <Grid>
+            <ListView Margin="10" Name="ProductsList">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Product ID" Width="120" DisplayMemberBinding="{Binding ProductID}"></GridViewColumn>
+                        <GridViewColumn Header="Product Name" Width="120" DisplayMemberBinding="{Binding ProductName}"></GridViewColumn>
+                        <GridViewColumn Header="Pack Size" Width="120" DisplayMemberBinding="{Binding PackSize}"></GridViewColumn>
+                        <GridViewColumn Header="Quantity" Width="120" DisplayMemberBinding="{Binding Quantity}" >
 
-        <ListView Name="Listazas" ItemsSource="{Binding}" Margin="8">
-            <ListView.View>
-                <GridView>
-                    <GridViewColumn HeaderTemplate="{StaticResource IDColHeader}" CellTemplate="{StaticResource IdCellTemplate}"/>
-                    <GridViewColumn HeaderTemplate="{StaticResource IDColHeader}" CellTemplate="{StaticResource IdCellTemplate}"/>
-                    <GridViewColumn HeaderTemplate="{StaticResource IDColHeader}" CellTemplate="{StaticResource IdCellTemplate}"/>
-                    <GridViewColumn HeaderTemplate="{StaticResource IDColHeader}" CellTemplate="{StaticResource IdCellTemplate}"/>
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Background="{Binding Quantity, Converter={StaticResource QuantityConverter}}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
 
-                </GridView>
-            </ListView.View>
-        </ListView>
-    </Grid>
+                        </GridViewColumn>
+
+                    </GridView>
+
+                </ListView.View>
+            </ListView>
+        </Grid>
 </Window>
