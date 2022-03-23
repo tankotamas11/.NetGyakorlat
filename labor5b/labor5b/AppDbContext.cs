@@ -3,7 +3,7 @@
 
 namespace labor5b
 {
-    public class AppDbContext :DbContext
+    internal class AppDbContext :DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
@@ -22,7 +22,7 @@ namespace labor5b
             modelBuilder.Entity<Courses_Authors>()
                 .HasOne(c => c.Authors)
                 .WithMany(a => a.Courses_Authors)
-                .HasForeignKey(ai => ai.AuthorID);
+                .HasForeignKey(ai => ai.AuthorId);
 
             modelBuilder.Entity<Courses>()
                 .HasOne(a => a.Algorithms)

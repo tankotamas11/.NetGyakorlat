@@ -11,6 +11,7 @@
         public string AlgorithmNickname { get; set; }
         public bool isPublished { get; set; }
         public DateTime CreationDate { get; set; }
+        public List<Courses>? Courses { get; set; }
 
     }
 }
