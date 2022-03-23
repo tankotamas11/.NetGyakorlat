@@ -6,27 +6,18 @@
         xmlns:local="clr-namespace:labor2hazi"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Window.Resources>
-            <local:QuantityConverter x:Key="QuantityConverter"/>
-        </Window.Resources>
+    
         <Grid>
             <ListView Margin="10" Name="ProductsList">
                 <ListView.View>
                     <GridView>
                         <GridViewColumn Header="Product ID" Width="120" DisplayMemberBinding="{Binding ProductID}"></GridViewColumn>
-                        <GridViewColumn Header="Product Name" Width="120" DisplayMemberBinding="{Binding ProductName}"></GridViewColumn>
+                        <GridViewColumn Header="Product Name" Width="180" DisplayMemberBinding="{Binding ProductName}"></GridViewColumn>
                         <GridViewColumn Header="Pack Size" Width="120" DisplayMemberBinding="{Binding PackSize}"></GridViewColumn>
-                        <GridViewColumn Header="Quantity" Width="120" DisplayMemberBinding="{Binding Quantity}" >
-
-                            <GridViewColumn.CellTemplate>
-                                <DataTemplate>
-                                    <TextBlock Background="{Binding Quantity, Converter={StaticResource QuantityConverter}}"></TextBlock>
-                                </DataTemplate>
-                            </GridViewColumn.CellTemplate>
-
-                        </GridViewColumn>
-
-                    </GridView>
+                        <GridViewColumn Header="Quantity" Width="120" DisplayMemberBinding="{Binding Quantity}"></GridViewColumn>
+                        <GridViewColumn Header="Price" Width="120" DisplayMemberBinding="{Binding Price}"></GridViewColumn>
+ 
+                </GridView>
 
                 </ListView.View>
             </ListView>

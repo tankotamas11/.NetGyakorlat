@@ -25,16 +25,17 @@ namespace labor2hazi
             InitializeComponent();
             List<Products> products = new List<Products>();
 
-            products.Add(new Products() { ProductID = 1, ProductName = "Coffee Powder", PackSize = "1 kg", Quantity = 15684 });
-            products.Add(new Products() { ProductID = 2, ProductName = "Ground Coffee", PackSize = "500 g", Quantity = 22785 });
-            products.Add(new Products() { ProductID = 3, ProductName = "Tea", PackSize = "500 g", Quantity = 8544 });
-            products.Add(new Products() { ProductID = 4, ProductName = "Skimmed Milk", PackSize = "1 litre", Quantity = 28012 });
-            products.Add(new Products() { ProductID = 5, ProductName = "Smoothie", PackSize = "400 ml", Quantity = 9346 });
-            products.Add(new Products() { ProductID = 6, ProductName = "Beef Drink", PackSize = "750 g", Quantity = 7612 });
+            products.Add(new Products() { ProductID = 101, ProductName = "Coffee Powder", PackSize = "1 kg", Quantity = 15684 , Price=10 });
+            products.Add(new Products() { ProductID = 102, ProductName = "Ground Coffee", PackSize = "500 g", Quantity = 22785, Price = 20 });
+            products.Add(new Products() { ProductID = 103, ProductName = "Tea", PackSize = "500 g", Quantity = 8544, Price = 15 });
+            products.Add(new Products() { ProductID = 104, ProductName = "Skimmed Milk", PackSize = "1 litre", Quantity = 28012, Price = 18 });
+            products.Add(new Products() { ProductID = 105, ProductName = "Smoothie", PackSize = "400 ml", Quantity = 9346 , Price = 15 });
+            products.Add(new Products() { ProductID = 106, ProductName = "Beef Drink", PackSize = "750 g", Quantity = 7612 , Price = 14 });
 
 
 
             ProductsList.ItemsSource = products;
         }
+        
     }
 }

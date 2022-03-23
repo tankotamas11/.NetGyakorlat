@@ -12,5 +12,7 @@ namespace labor2hazi
         public string ProductName { get; set; }
         public string PackSize { get; set; }
         public int Quantity { get; set; }
+
+        public int Price { get; set; }
     }
 }
